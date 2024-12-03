@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256266555391",
+    "project_id": "taskteacherapp",
+    "storage_bucket": "taskteacherapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256266555391:android:bbea5e62af72a64a3e21ca",
+        "android_client_info": {
+          "package_name": "com.devaxis.taskapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQSmvWtEpDWLQl_DY0q5AI_T53h-u7NB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
